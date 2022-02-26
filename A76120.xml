@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of what past betweene the fleet his Highness the Prince of Wales, and that under the command of the Earle of Warwick.</title>
+            <author>Batten, William, Sir, d. 1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76120</idno>
+            <idno type="STC">Wing B1155</idno>
+            <idno type="STC">Thomason E548_8</idno>
+            <idno type="STC">ESTC R205559</idno>
+            <idno type="EEBO-CITATION">99864905</idno>
+            <idno type="PROQUEST">99864905</idno>
+            <idno type="VID">164984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164984)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of what past betweene the fleet his Highness the Prince of Wales, and that under the command of the Earle of Warwick.</title>
+                  <author>Batten, William, Sir, d. 1667.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Anno Dom. M.DC.XLVIII. [1648, i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir William Batten.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164984:1" rendition="simple:additions"/>
+            <p>A true RELATION of what paſt betweene the Fleet of his Highnes the Prince of Wales, and that under the Command of the Earle of Warwick.</p>
+            <p>Anno Dom. M.DC.XI.VIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164984:2"/>
+            <pb facs="tcp:164984:2"/>
+            <head>A true RELATION Of what paſt betweene the Fleet of his Highnes the Prince of Wales, and that under the Command of the Earle of Warwick.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Nderſtandinge that there are divers reports and untruthes vented concerninge his High<g ref="char:EOLhyphen"/>nes the Prince of Wales goeinge up into the River of Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes, I have thought good as being an eye wittneſſe of all the proceedings to ſet forth the truth with out any partiality.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">August </seg>26</label> Auguſt it was reſolved by his Highneſſe Coun<g ref="char:EOLhyphen"/>cell in the Downes in regard of the ſhortneſſe of proviſions, eſpecialy beare, to goe for Holl<g ref="char:EOLhyphen"/>and to new victuall, to which purpoſe the Fleet wayinge that day ſtood for the North forland, where we mett with one of our ſmall veſſells who had binn abroad for intelligence, who tould us the Earle of Warwick was coming
+<pb n="2" facs="tcp:164984:3"/>downe as low as the boy of the Redſand, where<g ref="char:EOLhyphen"/>upon we preſently ſtood back for Marget Road hopeinge that night or next morning to have mett with him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">August </seg>27</label> Hearing noe newes of him we wayed &amp; ſtood towards the coaſt of Holland, but the ſeamen would by noe meanes be perſwaded, but would be contented with halfe allowance or leſſe, ſoe that they might goe into the River of Thames, to meet with the ſaid Earle.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">August </seg>28</label> Whereupon the 28th. in the morning we way<g ref="char:EOLhyphen"/>ed and ſtood for the longe ſand head, and Anc<g ref="char:EOLhyphen"/>kored there that night.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">August </seg>29</label> We wayed and ſtood up into the River the wind then at South Eaſt, and when we were within a League of the Spitts ſaw the Earle of Warwick, and all his Fleet, about 3 a clock the headmoſt of his Ships fireing ſome gunnes to give warneing to his Fleet when they ſaw us, who preſently ſtood back in to the River againe we followeing them, and that night they gott up as high as the cant and there Anckered, we could not fetch neare them by 3 miles but ſem a Ketch to him, with a ſummons from the
+<pb n="3" facs="tcp:164984:3"/>Prince, of which we receaved anſweare about 12 a clock at night.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">August </seg>30</label> We wayed with the Flood, the wind Weſterly and plyed towards him, he then likewiſe wayed and ſtill plied up into the River, and was gott open of the mouth of the River of med way by which tyme the van of our Fleet were gott near him and ready to ingage, at which tyme a ſud<g ref="char:EOLhyphen"/>aine guſt, came at North Weſt, with much vic<g ref="char:EOLhyphen"/>lence that we were both Fleets forced to chapp to an anckor ſudainly, one of his Frigatts ſpend<g ref="char:EOLhyphen"/>inge his maine Topmaſt or rather the head of his mayne Maſt, &amp; in truth this ſudaine ſtorme did demonſtrate to us that God was unwillinge to have any bloud ſpilt. <label type="milestone">
+                  <seg type="milestoneunit">August </seg>31</label> Rideing thus at an anckor all that evening and night till next day 11 a clock the wind ſtill continueing betweene the North Weſt, and Weſt North Weſt, and we within amile of each other, but ſtill a hard gale of wind. The Prince perceaveing he could noe wiſe ingage them. About 9 of the clock ſhot of a warning peice and looſed the fore Topſaile not waighinge in two howers after, and vvhen he waighed left the Viſeadmirall Rearadmirall and Convertine to bringe up the reare. The
+<pb n="4" facs="tcp:164984:4"/>Prince with the Fleet ſtanding avvay, with his Topſaile downe on the chapp to go for Holland and indeed it was high tyme, there being not in the Ships more then a butt of beare &amp; no vvater.</p>
+            <p>After we had ſtood away from him two lea<g ref="char:EOLhyphen"/>gues, he waighed with his Fleet as if he would have done ſomething, and ſtood after us with all his ſayles, we ſtill makeing noe more ſayle, and as he or any of his Fleet came neare to us, we ſtayinge for them they would doe the like and off the Spitts all his Fleet came by the lee night in hand we ſtanding away our courſe for Holland with lights upon the Admiralls poope. <label type="milestone">
+                  <seg type="milestoneunit">September </seg>1</label> Septemb: About 11 of the clock ſaw Goree Church and in the afternoone landed his Hyghneſſe in one of the ſmall Frigatts, all the Fleet getting in but the Admirall and two more.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">September </seg>2</label> The other two Ships gott in but the Admirall could not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">September </seg>3</label> The wind at North Weſt, the Admirall could not waigh, and being without any drinck 24 howers cut Cable and rann into Hellivootſluiſe.</p>
+            <p>Thus have I given a true and impartiall rela<g ref="char:EOLhyphen"/>tion of the whole buſineſſe to ſtopp the mout<g ref="char:EOLhyphen"/>hes of all thoſe who report the Prince fled from
+<pb n="5" facs="tcp:164984:4"/>the Earle of Warvvick, for I muſt doe his High<g ref="char:EOLhyphen"/>neſſe that right that I never ſaw a man more ready and willinge to engage his owne perſon, then he was; for when S<hi rend="sup">r</hi> William Batten and others came to him, deſir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing him to goe down his anſvvere was, he would never agree to it, it being not for his honour, ſo that a reſolution vvas taken if they came to ingage to have car<g ref="char:EOLhyphen"/>ied him dovvne by force.</p>
+            <p>And novv though I have done vvith the re<g ref="char:EOLhyphen"/>lation, yet I muſt ſay ſomethinge in vindication of the judgements of the ſea commanders under vvhoſe ſpheare it vvill moſt properly fall.</p>
+            <p>I knovv it vvil be obiected and that juſtly to, unleſſe cleared a great deale of undiſcretion in this buſineſſe.</p>
+            <p>As firſt the coming into the River vvith ſoe ſmall a proportion of victualls, and ſecondly, to offer to ingage ſuch Schips in ſoe narrovv a ſtraight and ſoe much diſadvantage on the Princes ſide.</p>
+            <p>To both vvhich I anſvvear it was quite againſt the ſence of the councell, but occationed by the reſolutions I vvill not ſay diſcretion of the ſea<g ref="char:EOLhyphen"/>men, for in all me life I never ſavv men more ready &amp; unanimous to engage then they vvere.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
